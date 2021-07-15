@@ -18,9 +18,10 @@
 </div>
 
 <h1 align="center">:arrow_lower_left:𝘊𝘰𝘯𝘵𝘢𝘤𝘵 𝘮𝘦</h1>
+<br>
 <div align="left">
-  <a src="https://www.facebook.com/caastOS/" target="_blank"><img src="assets/facebook.png"></a>
-  <a src="https://www.instagram.com/c.asto/" target="_blank"><img src="assets/instagram.png"></a>
-  <a src="https://www.linkedin.com/in/claudiocastorina2/" target="_blank"><img src="assets/linkedin.png"></a>
-  <a src="https://claudiocastorina.com" target="_blank"><img src="assets/portfolio.png"></a>
+  <a src="https://www.facebook.com/caastOS/" target="_blank"><img src="assets/facebook.png" width="128" height="128"></a>
+  <a src="https://www.instagram.com/c.asto/" target="_blank"><img src="assets/instagram.png" width="128" height="128"></a>
+  <a src="https://www.linkedin.com/in/claudiocastorina2/" target="_blank"><img src="assets/linkedin.png" width="128" height="128"></a>
+  <a src="https://claudiocastorina.com" target="_blank"><img src="assets/portfolio.png" width="128" height="128"></a>
 </div>
