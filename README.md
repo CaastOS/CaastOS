@@ -1,4 +1,7 @@
-![Intro](assets/profile_intro.gif)
+<p align="center">
+  <img src="assets/profile_intro.gif">
+ </p>
+ 
 <h1 align="center"> :point_right: 𝘈𝘣𝘰𝘶𝘵 𝘮𝘦 :point_left: </h1>
              
 <div align="center">
