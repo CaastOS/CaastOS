@@ -7,7 +7,7 @@
 <div align="center">
   <h4>Living in Maastricht (NL)</h4>
   <h4>Full Stack Web Developer</h4>
-  <h4>Calisthenics enthusiastic</h4>
+  <h4>Bouldering enthusiastic</h4>
   <h4>Data Science <a href="https://maastrichtuniversity.nl">𝚜𝚝𝚞𝚍𝚎𝚗𝚝</a></h4>
 </div>
 
