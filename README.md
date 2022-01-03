@@ -14,10 +14,7 @@
 <h1 align="center">𝘕𝘦𝘹𝘵 𝘴𝘵𝘦𝘱𝘴:arrow_lower_right: </h1>
              
 <div align="right">
-  <h4>Start contributing to a few open-source projects I like</h4>
   <h4>Apply to my university <a href="https://www.maastrichtuniversity.nl/research/dke/honours-programme">𝙺𝙴@𝚆𝚘𝚛𝚔</a> honours</h4>
-  <h4>Learn a new (human) language</h4>
-  <h4>Keep developing for passion</h4>
 </div>
 
 <h1 align="center">:arrow_lower_left:𝘊𝘰𝘯𝘵𝘢𝘤𝘵 𝘮𝘦</h1>
