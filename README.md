@@ -5,10 +5,11 @@
 <h1 align="center"> :point_right: 𝘈𝘣𝘰𝘶𝘵 𝘮𝘦 :point_left: </h1>
              
 <div align="center">
+   <h4>Data Science and AI <a href="https://maastrichtuniversity.nl">𝚜𝚝𝚞𝚍𝚎𝚗𝚝</a></h4>
   <h4>Living in Maastricht (NL)</h4>
   <h4>Full Stack Web Developer</h4>
   <h4>Bouldering enthusiastic</h4>
-  <h4>Data Science and AI <a href="https://maastrichtuniversity.nl">𝚜𝚝𝚞𝚍𝚎𝚗𝚝</a></h4>
+ 
 </div>
 
 <h1 align="center">𝘕𝘦𝘹𝘵 𝘴𝘵𝘦𝘱𝘴:arrow_lower_right: </h1>
