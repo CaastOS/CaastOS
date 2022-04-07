@@ -12,15 +12,9 @@
  
 </div>
 
-<h1 align="center">𝘕𝘦𝘹𝘵 𝘴𝘵𝘦𝘱𝘴:arrow_lower_right: </h1>
-             
-<div align="right">
-  <h4>Apply to my university <a href="https://www.maastrichtuniversity.nl/research/dke/honours-programme">𝙺𝙴@𝚆𝚘𝚛𝚔</a> honours</h4>
-</div>
-
-<h1 align="center">:arrow_lower_left:𝘊𝘰𝘯𝘵𝘢𝘤𝘵 𝘮𝘦</h1>
+<h1 align="center">𝘊𝘰𝘯𝘵𝘢𝘤𝘵s</h1>
 <br>
-<div align="left">
+<div align="center">
   <a href="https://www.facebook.com/caastOS/" target="_blank"><img src="assets/facebook.png" width="64" height="64"></a>
   <span>  </span>
   <a href="https://www.instagram.com/c.asto/" target="_blank"><img src="assets/instagram.png" width="64" height="64"></a>
