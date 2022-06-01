@@ -2,7 +2,7 @@
   <img src="assets/profile_intro.gif">
  </p>
  
-<h1 align="center"> :point_right: 𝘈𝘣𝘰𝘶𝘵 𝘮𝘦 :point_left: </h1>
+<h1 align="center">𝘈𝘣𝘰𝘶𝘵 𝘮𝘦</h1>
              
 <div align="center">
    <h4>Data Science and AI <a href="https://maastrichtuniversity.nl">𝚜𝚝𝚞𝚍𝚎𝚗𝚝</a></h4>
