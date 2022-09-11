@@ -7,9 +7,9 @@
 <div align="center">
    <h4>Data Science and AI <a href="https://maastrichtuniversity.nl">𝚜𝚝𝚞𝚍𝚎𝚗𝚝</a></h4>
   <h4>Living in Maastricht (NL)</h4>
-  <h4>Full Stack Web Developer</h4>
+  <h4>Machine Learning Intern</h4>
   <h4>Bouldering enthusiastic</h4>
- 
+  <sup><sub>(also used to be a full-stack web developer!)</sub></sup>
 </div>
 
 <h1 align="center">𝘊𝘰𝘯𝘵𝘢𝘤𝘵s</h1>
