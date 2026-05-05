@@ -6,8 +6,8 @@
              
 <div align="center">
    <h4>MSc Autonomous Systems at Technical University of Denmark</h4>
-  <h4>Copenhagen (DK)</h4>
-  <h4>ML Engineer @ Cortrium</h4>
+  <h4>Aarhus (DK)</h4>
+  <h4>Quant Analyst @ MFT Energy</h4>
 </div>
 
 <h1 align="center">𝘊𝘰𝘯𝘵𝘢𝘤𝘵s</h1>
